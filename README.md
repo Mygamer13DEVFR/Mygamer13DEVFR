@@ -2,13 +2,13 @@
 
 ---
 
-## 🚀 À propos
+## 🚀 About me
 
-- 🏢 [**DevHub**](https://dev-hub.fr)** Founder & CEO** — Création de bots, serveurs & sites web personnalisés
+- 🏢 [**DevHub**](https://dev-hub.fr) **Founder & CEO** — Création de bots, serveurs & sites web personnalisés
 - 🌍 Based in France
-- love `mountain`, `ski` and `mtb`
+- Love `mountain`, `ski` and `mtb`
 
-- 👨‍💻 Dev for [**Millesime MG**](https://millesime-mg.fr)
+- 👨‍💻 Dev for [**Millesime MG**](https://millesime-mg.fr) and full of others projects
 
 ---
 
