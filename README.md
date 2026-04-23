@@ -12,7 +12,7 @@
  
 
   <p align="center">
-    <img src="./mtb.gif" width="600"/>
+    <img src="./mtb.gif" width="400"/>
   </p>
  
 ---
