@@ -4,7 +4,7 @@
  
 ## 🚀 About me
  
-- 🏢 [**DevHub**](https://dev-hub.fr) **Founder & CEO** — Création de bots, serveurs & sites web personnalisés
+- 🏢 [**DevHub**](https://dev-hub.fr) **Founder & CEO** — Custom discord bot, server & website creation
 - 🌍 Based in France
 - 💓 Love `mountain`, `sunset`, `ski` and `mtb`
  
@@ -12,7 +12,7 @@
  
 
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxkcm1xczV5dW5mOTdncW5nOGxkb2U3cmJsa2VuaDd0eWR2NzZyOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9G59zLRR0GUFIwTJ7V/giphy.gif" width="600"/>
+    <img src="https://media.giphy.com/media/9G59zLRR0GUFIwTJ7V/giphy.gif" width="600"/>
   </p>
  
 ---
